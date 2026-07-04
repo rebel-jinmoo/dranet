@@ -1,0 +1,21 @@
+pkg/driver/dra_hooks.go
+  s_bb0c8656e83c8f::t_eb02290faf4f99 440-445,447-449
+pkg/inventory/sysfs.go
+  s_bb0c8656e83c8f::t_1567de075d5ea8 234-243
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "a14d974eb53305140bd9a6138fd59b3d9ae8e6f5",
+  "prompts": {},
+  "sessions": {
+    "s_bb0c8656e83c8f": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "3d7bf2ba-9a53-47b1-8460-d0903f60e9fb",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "rebel-jinmoo <jinmoo_seok@rebellions.ai>"
+    }
+  }
+}
