@@ -1,0 +1,23 @@
+pkg/driver/rdma_provider.go
+  s_bb0c8656e83c8f::t_4a9197cc490b7b 1-85
+pkg/driver/nri_hooks.go
+  s_bb0c8656e83c8f::t_854e269e1f3a7f 121-128
+pkg/driver/rdma_provider_test.go
+  s_bb0c8656e83c8f::t_a6fc7b69ae4936 1-111
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "fb0b25c993bd504c0afc0a9591cf14e4c2527bf4",
+  "prompts": {},
+  "sessions": {
+    "s_bb0c8656e83c8f": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "3d7bf2ba-9a53-47b1-8460-d0903f60e9fb",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "rebel-jinmoo <jinmoo_seok@rebellions.ai>"
+    }
+  }
+}
