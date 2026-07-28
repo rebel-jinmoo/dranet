@@ -1,0 +1,31 @@
+pkg/apis/config_merge.go
+  s_65848213483a33::t_b0e589f18b1aaf 58-69
+pkg/apis/config_merge_test.go
+  s_65848213483a33::t_24de199db7a66f 20,188-216
+pkg/apis/types.go
+  s_65848213483a33::t_f37db9cdec7359 42-57
+pkg/apis/validation.go
+  s_65848213483a33::t_f6a3395c44899d 23,93-97,375-400
+pkg/apis/validation_test.go
+  s_65848213483a33::t_e0ca8bf52d499d 636-666
+pkg/driver/dra_hooks.go
+  s_65848213483a33::t_675c18acd7e27e 248-257,315,478,504
+pkg/driver/dra_hooks_test.go
+  s_65848213483a33::t_e459b0e64b9cea 34,908,930,943,1033-1144
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.16",
+  "base_commit_sha": "d6eb95fb4faf8d47d33835c162b3f641e29c1906",
+  "prompts": {},
+  "sessions": {
+    "s_65848213483a33": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "4d554de4-9337-4cbf-bb6c-5fa86173415a",
+        "model": "claude-opus-5"
+      },
+      "human_author": "rebel-jinmoo <jinmoo_seok@rebellions.ai>"
+    }
+  }
+}
