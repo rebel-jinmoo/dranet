@@ -1,0 +1,27 @@
+pkg/apis/attributes.go
+  s_82ae8bc29e9ad8::t_e605c1ad938718 45-56,61
+pkg/inventory/db.go
+  s_82ae8bc29e9ad8::t_7ee09d7648431a 63-71,297,306-313,806-816,818
+pkg/inventory/db_test.go
+  s_82ae8bc29e9ad8::t_fa7e1ae0a22a98 40-45,53-56,69-82
+pkg/inventory/pci.go
+  s_82ae8bc29e9ad8::t_c25e7c6a6e69ab 1-174
+pkg/inventory/pci_test.go
+  s_82ae8bc29e9ad8::t_121510dbbf1c8c 1-209
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.22",
+  "base_commit_sha": "c664accd96f15ed921caf16e4723cbbe95afe1e6",
+  "prompts": {},
+  "sessions": {
+    "s_82ae8bc29e9ad8": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "fa83c1c4-9dc3-42e3-91e6-dcd5cccb02ad",
+        "model": "claude-opus-5"
+      },
+      "human_author": "rebel-jinmoo <jinmoo_seok@rebellions.ai>"
+    }
+  }
+}
