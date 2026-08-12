@@ -1,0 +1,57 @@
+pkg/apis/passthrough_validation_test.go
+  s_82ae8bc29e9ad8::t_8975e5839f87b7 1-200
+pkg/driver/dra_hooks.go
+  s_82ae8bc29e9ad8::t_a056265833f4ba 600,603,606
+  s_82ae8bc29e9ad8::t_d796414ac56f8d 571-578,580-584,590-599,601-602,604-605,607-661
+  s_82ae8bc29e9ad8::t_7e81979af29152 706-707,714-719,722-733,738-750
+  s_82ae8bc29e9ad8::t_117e24e5b46bc9 579,585-589
+  s_82ae8bc29e9ad8::t_88dd9294182bdc 294-302
+  s_82ae8bc29e9ad8::t_de25c234019137 290-293,303-319
+pkg/inventory/pci.go
+  s_82ae8bc29e9ad8::t_1e3dfe56cb1346 167-172,174-175
+  s_82ae8bc29e9ad8::t_ba7e2a302986ee 35,37
+  s_82ae8bc29e9ad8::t_d9d425cf200023 163-166,173,176-268
+pkg/driver/pod_device_config.go
+  s_82ae8bc29e9ad8::t_f81c34fa201c1f 106-111
+  s_82ae8bc29e9ad8::t_ee320022624a74 68-88
+pkg/driver/rdmadevice.go
+  s_82ae8bc29e9ad8::t_5fc20048b49032 118-122,124-131
+pkg/inventory/pci_lifecycle_test.go
+  s_82ae8bc29e9ad8::t_d344b7c1613c71 1-141
+pkg/driver/vfio_test.go
+  s_82ae8bc29e9ad8::t_3fd96071b0a997 37-63
+  s_82ae8bc29e9ad8::t_ae4cd12be85a7e 1-36,64-107,109-155
+  s_82ae8bc29e9ad8::t_24e184c37288fe 108
+pkg/driver/nri_hooks.go
+  s_82ae8bc29e9ad8::t_bfcc1546559831 134-136,140-159,162-166
+  s_82ae8bc29e9ad8::t_1343cf1e8e2033 54-63,67,69-87,93-101
+  s_82ae8bc29e9ad8::t_cc563e0823e516 102-103
+pkg/apis/types.go
+  s_82ae8bc29e9ad8::t_746620d7ac6915 26,28,30-35,51-55,57-66
+  s_82ae8bc29e9ad8::t_6eb9180d22f7fb 101-152
+  s_82ae8bc29e9ad8::t_e93cbc3e7e6077 27,29,36-50,56
+pkg/driver/vfio.go
+  s_82ae8bc29e9ad8::t_c070c0fb3728af 1-64,82,84-131,136-252,271,273-275,277-279,281-282,300-393
+  s_82ae8bc29e9ad8::t_1d0dcddadf54b1 65-81,83
+  s_82ae8bc29e9ad8::t_48bae0a51537c6 253-270,272,276,280,283-299
+  s_82ae8bc29e9ad8::t_96bbc3ba11192a 132-135
+pkg/apis/validation.go
+  s_82ae8bc29e9ad8::t_8cfc14136c8a85 66-75
+  s_82ae8bc29e9ad8::t_9b4a83d9c6351e 327-418
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.22",
+  "base_commit_sha": "32a3dec25375b22325c4699e299d749c0b3ff49d",
+  "prompts": {},
+  "sessions": {
+    "s_82ae8bc29e9ad8": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "fa83c1c4-9dc3-42e3-91e6-dcd5cccb02ad",
+        "model": "claude-opus-5"
+      },
+      "human_author": "rebel-jinmoo <jinmoo_seok@rebellions.ai>"
+    }
+  }
+}
