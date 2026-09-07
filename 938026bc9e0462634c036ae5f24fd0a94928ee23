@@ -1,0 +1,25 @@
+pkg/driver/dra_hooks.go
+  s_bb0c8656e83c8f::t_1743e7e5b14577 190-193
+pkg/driver/rdma_provider.go
+  s_bb0c8656e83c8f::t_3b3e708f40c647 47-50
+  s_bb0c8656e83c8f::t_c2c14c1a71f23d 67-69,74
+pkg/driver/rdma_provider_test.go
+  s_bb0c8656e83c8f::t_10ee79f1d00452 77-91
+  s_bb0c8656e83c8f::t_9ddd34858c2eb6 35-37
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "938026bc9e0462634c036ae5f24fd0a94928ee23",
+  "prompts": {},
+  "sessions": {
+    "s_bb0c8656e83c8f": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "3d7bf2ba-9a53-47b1-8460-d0903f60e9fb",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "rebel-jinmoo <jinmoo_seok@rebellions.ai>"
+    }
+  }
+}

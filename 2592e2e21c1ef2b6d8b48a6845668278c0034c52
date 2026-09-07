@@ -1,0 +1,35 @@
+pkg/driver/dra_hooks.go
+  s_82ae8bc29e9ad8::t_1f2a6a68f4ad2a 365-377,603-612,639-661,686-692,763-771
+pkg/driver/nri_hooks.go
+  s_21b4e85637e461::t_20380954c5ce06 77,99-110
+pkg/driver/pod_device_config.go
+  s_82ae8bc29e9ad8::t_2a942e9db2a2d8 69-75,98-121
+pkg/driver/vfio.go
+  s_82ae8bc29e9ad8::t_3d44c9c4b762ce 29,318,320,324,326-330,334,337,348,356,361,373-444,446-507,509
+pkg/driver/vfio_test.go
+  s_82ae8bc29e9ad8::t_706b39b15f729a 22,24-25,159-260
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.22",
+  "base_commit_sha": "2592e2e21c1ef2b6d8b48a6845668278c0034c52",
+  "prompts": {},
+  "sessions": {
+    "s_21b4e85637e461": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "e8cd4401-e2b0-4e22-88e9-0f5072c00e40",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "rebel-jinmoo <jinmoo_seok@rebellions.ai>"
+    },
+    "s_82ae8bc29e9ad8": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "fa83c1c4-9dc3-42e3-91e6-dcd5cccb02ad",
+        "model": "claude-opus-5"
+      },
+      "human_author": "rebel-jinmoo <jinmoo_seok@rebellions.ai>"
+    }
+  }
+}
