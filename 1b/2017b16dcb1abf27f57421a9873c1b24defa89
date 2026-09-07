@@ -1,0 +1,21 @@
+pkg/driver/dhcp_test.go
+  s_eb5abef711e1bf::t_af52ee112a057a 2
+NOTICE
+  s_eb5abef711e1bf::t_af52ee112a057a 30
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.2",
+  "base_commit_sha": "1b2017b16dcb1abf27f57421a9873c1b24defa89",
+  "prompts": {},
+  "sessions": {
+    "s_eb5abef711e1bf": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "7b96c17b-3d19-47ca-be50-0e317a75a5ef",
+        "model": "claude-fable-5"
+      },
+      "human_author": "rebel-jinmoo <jinmoo_seok@rebellions.ai>"
+    }
+  }
+}
