@@ -1,0 +1,20 @@
+pkg/driver/dra_hooks_test.go
+  s_bb0c8656e83c8f::t_b9cced2a6ae00b 897-901
+  s_bb0c8656e83c8f::t_c7700491cdf96b 914-917,922-926
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "58373c75e2b6e9a02cd18e24e75156fd1e8a5289",
+  "prompts": {},
+  "sessions": {
+    "s_bb0c8656e83c8f": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "3d7bf2ba-9a53-47b1-8460-d0903f60e9fb",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "rebel-jinmoo <jinmoo_seok@rebellions.ai>"
+    }
+  }
+}

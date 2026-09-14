@@ -1,0 +1,21 @@
+pkg/inventory/sysfs.go
+  s_bb0c8656e83c8f::t_ca9dcff8874e03 234-237,243,251-254
+pkg/driver/dra_hooks.go
+  s_bb0c8656e83c8f::t_3e983a1396c136 440-445
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "d0a6b5698f024b91af9b4918339209c130076c20",
+  "prompts": {},
+  "sessions": {
+    "s_bb0c8656e83c8f": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "3d7bf2ba-9a53-47b1-8460-d0903f60e9fb",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": null
+    }
+  }
+}
