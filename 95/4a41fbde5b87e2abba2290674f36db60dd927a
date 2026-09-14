@@ -1,0 +1,27 @@
+pkg/driver/dra_hooks_test.go
+  s_eb5abef711e1bf::t_3f09af6a67f185 1549
+  s_eb5abef711e1bf::t_c79aa693061735 1550-1552
+  s_eb5abef711e1bf::t_cfdd87966d76ee 26
+  s_eb5abef711e1bf::t_4f071b44f99de1 1512-1548,1553-1589
+  s_eb5abef711e1bf::t_6311a45cdf0b08 1429
+pkg/driver/dra_hooks.go
+  s_eb5abef711e1bf::t_92fb7e6d6ca7b9 223,237-243,246-251
+  s_eb5abef711e1bf::t_5a34b61357f544 220-222
+  s_eb5abef711e1bf::t_d935e371f3a939 252
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "954a41fbde5b87e2abba2290674f36db60dd927a",
+  "prompts": {},
+  "sessions": {
+    "s_eb5abef711e1bf": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "7b96c17b-3d19-47ca-be50-0e317a75a5ef",
+        "model": "claude-opus-5"
+      },
+      "human_author": "rebel-jinmoo <jinmoo_seok@rebellions.ai>"
+    }
+  }
+}
