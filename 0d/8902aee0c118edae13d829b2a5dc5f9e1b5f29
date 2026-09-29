@@ -1,0 +1,21 @@
+cmd/dranet/app.go
+  s_347da9a67d07e4::t_b533145123125a 329
+cmd/dranet/serve_test.go
+  s_347da9a67d07e4::t_494c0c733b6981 1-16
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "0d8902aee0c118edae13d829b2a5dc5f9e1b5f29",
+  "prompts": {},
+  "sessions": {
+    "s_347da9a67d07e4": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "996c0eea-ccf3-4126-af9a-82daa13d8ac0",
+        "model": "unknown"
+      },
+      "human_author": "rebel-jinmoo <jinmoo_seok@rebellions.ai>"
+    }
+  }
+}
