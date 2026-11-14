@@ -1,0 +1,24 @@
+pkg/inventory/pci_test.go
+  s_347da9a67d07e4::t_25c6ed68e2f609 133-134
+  s_347da9a67d07e4::t_f98e080046ecad 188-203
+pkg/inventory/pci.go
+  s_347da9a67d07e4::t_2606a277c7d880 139-140,143,145
+  s_347da9a67d07e4::t_1da783c31027d0 169-183
+  s_347da9a67d07e4::t_3e6c1bdded5d04 203-205
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "e63e7433ed71c69f506b521783b2831159f66c7f",
+  "prompts": {},
+  "sessions": {
+    "s_347da9a67d07e4": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "996c0eea-ccf3-4126-af9a-82daa13d8ac0",
+        "model": "unknown"
+      },
+      "human_author": "rebel-jinmoo <jinmoo_seok@rebellions.ai>"
+    }
+  }
+}
