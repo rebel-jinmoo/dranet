@@ -1,0 +1,28 @@
+pkg/driver/vfio.go
+  s_347da9a67d07e4::t_33e85410e62f0b 257-263
+  s_347da9a67d07e4::t_0e0efd4df3e56d 125,129
+  s_347da9a67d07e4::t_7a06ce4217b029 231-238,240-256,264
+  s_347da9a67d07e4::t_bfc5bec0c1f10b 239
+  s_347da9a67d07e4::t_ce650f197b1a20 20
+  s_347da9a67d07e4::t_2ef93f1fa1fe0e 265
+pkg/driver/dra_hooks.go
+  s_347da9a67d07e4::t_8e9e2050ad87fc 570-576
+pkg/driver/vfio_test.go
+  s_347da9a67d07e4::t_48919aa3193f1c 522-579
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "3d4d9029a27bfe4580d91dfe38a73a71405b083c",
+  "prompts": {},
+  "sessions": {
+    "s_347da9a67d07e4": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "996c0eea-ccf3-4126-af9a-82daa13d8ac0",
+        "model": "unknown"
+      },
+      "human_author": "rebel-jinmoo <jinmoo_seok@rebellions.ai>"
+    }
+  }
+}
