@@ -1,0 +1,20 @@
+site/content/docs/concepts/vfio.md
+  s_347da9a67d07e4::t_f842b46ff6e1c4 128-129
+  s_347da9a67d07e4::t_3440be12719781 47
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "30300cbb034b40fa56a6663cc12fdff885e8806b",
+  "prompts": {},
+  "sessions": {
+    "s_347da9a67d07e4": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "996c0eea-ccf3-4126-af9a-82daa13d8ac0",
+        "model": "unknown"
+      },
+      "human_author": "rebel-jinmoo <jinmoo_seok@rebellions.ai>"
+    }
+  }
+}
