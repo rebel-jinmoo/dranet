@@ -1,0 +1,44 @@
+pkg/driver/pod_device_config_bolt_version_test.go
+  s_347da9a67d07e4::t_77f1b95afc1cba 99
+  s_347da9a67d07e4::t_731f41cf16804f 137
+  s_347da9a67d07e4::t_e22d826cc792cd 229
+  s_347da9a67d07e4::t_00153c7cb93c80 120-130
+pkg/driver/driver.go
+  s_347da9a67d07e4::t_a8deafa73b30b9 124-126
+  s_347da9a67d07e4::t_6c3140b920e7f4 179-186
+  s_347da9a67d07e4::t_145a25f5677402 27,29-30,32
+pkg/driver/vfio.go
+  s_347da9a67d07e4::t_5693029954a71a 1-326
+pkg/driver/pod_device_config.go
+  s_347da9a67d07e4::t_452069fa9de82d 75-77
+pkg/driver/dra_hooks.go
+  s_347da9a67d07e4::t_cf815e6734be05 233-236
+  s_347da9a67d07e4::t_0069f773b4fea5 219
+  s_347da9a67d07e4::t_3da26a0b598e84 598-604,609-613,615-617
+  s_347da9a67d07e4::t_a27656903bfc6b 570-571
+  s_347da9a67d07e4::t_782e6d4dbe486a 267-272
+pkg/driver/nri_hooks.go
+  s_347da9a67d07e4::t_6f91c7da8a62f3 23
+  s_347da9a67d07e4::t_f211cac287064e 99,104-108
+  s_347da9a67d07e4::t_d5f4023b9ea629 223-234
+pkg/driver/vfio_test.go
+  s_347da9a67d07e4::t_fe71d54a5a0bcb 221-222
+  s_347da9a67d07e4::t_ec54283e9d085c 119
+  s_347da9a67d07e4::t_959267f4859431 1-118,120-220,223-574
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "5c782fa7bf3699f267b2851744ea607ed1326f5b",
+  "prompts": {},
+  "sessions": {
+    "s_347da9a67d07e4": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "996c0eea-ccf3-4126-af9a-82daa13d8ac0",
+        "model": "unknown"
+      },
+      "human_author": "rebel-jinmoo <jinmoo_seok@rebellions.ai>"
+    }
+  }
+}
