@@ -1,0 +1,29 @@
+pkg/inventory/pci_test.go
+  s_347da9a67d07e4::t_475ca3954c69b5 1-299
+pkg/inventory/pci.go
+  s_347da9a67d07e4::t_2368ad962245b5 217-234
+  s_347da9a67d07e4::t_ff2319ece55864 24-30
+  s_347da9a67d07e4::t_8a00507f034dab 1-23,31-216
+cmd/dranet/app.go
+  s_347da9a67d07e4::t_157b0e1fb8fa0f 244-246
+pkg/inventory/db.go
+  s_347da9a67d07e4::t_0d97d2ff9fff32 910-913
+  s_347da9a67d07e4::t_0c565e8c2b9ef5 167-174
+  s_347da9a67d07e4::t_e6b2bdcb6c68bd 109-111
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "53b16ef737fd994bb0d7f6508338daa395b97abd",
+  "prompts": {},
+  "sessions": {
+    "s_347da9a67d07e4": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "996c0eea-ccf3-4126-af9a-82daa13d8ac0",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "rebel-jinmoo <jinmoo_seok@rebellions.ai>"
+    }
+  }
+}
