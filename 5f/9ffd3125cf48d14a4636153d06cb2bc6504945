@@ -1,0 +1,14 @@
+site/content/docs/concepts/vfio.md
+  h_0d9636bcc3de06 28,46,48,59,62,66-68,76,81
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "5f9ffd3125cf48d14a4636153d06cb2bc6504945",
+  "prompts": {},
+  "humans": {
+    "h_0d9636bcc3de06": {
+      "author": "rebel-jinmoo <jinmoo_seok@rebellions.ai>"
+    }
+  }
+}
