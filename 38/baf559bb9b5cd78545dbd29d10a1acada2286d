@@ -1,0 +1,58 @@
+pkg/driver/pod_device_config_bolt_version_test.go
+  s_347da9a67d07e4::t_77f1b95afc1cba 99
+  s_347da9a67d07e4::t_731f41cf16804f 137
+  s_347da9a67d07e4::t_e22d826cc792cd 229
+  s_347da9a67d07e4::t_00153c7cb93c80 120-130
+pkg/driver/driver.go
+  s_347da9a67d07e4::t_a8deafa73b30b9 124-126
+  s_347da9a67d07e4::t_6c3140b920e7f4 179,185-189
+  s_347da9a67d07e4::t_145a25f5677402 27,29-30,32
+pkg/driver/vfio.go
+  s_347da9a67d07e4::t_5693029954a71a 1-19,21-23,25-50,60-78,83,86-91,94,104-105,109,118-120,129-131,136-142,144-168,172,174-176,178-180,182-184,186,191,193,206,208-218,222-228,231-248,254-258,261-262,263-265,272,275-278,314-360,363-370,372-410
+pkg/driver/pod_device_config.go
+  s_347da9a67d07e4::t_452069fa9de82d 75-77
+pkg/driver/dra_hooks.go
+  s_347da9a67d07e4::t_cf815e6734be05 233-236
+  s_347da9a67d07e4::t_0069f773b4fea5 219
+  s_347da9a67d07e4::t_3da26a0b598e84 608-610
+  s_347da9a67d07e4::t_782e6d4dbe486a 267-272
+pkg/driver/nri_hooks.go
+  s_347da9a67d07e4::t_6f91c7da8a62f3 23
+  s_347da9a67d07e4::t_f211cac287064e 99,104-108
+  s_347da9a67d07e4::t_d5f4023b9ea629 223-234
+pkg/driver/vfio_test.go
+  s_347da9a67d07e4::t_fe71d54a5a0bcb 295-296
+  s_347da9a67d07e4::t_ec54283e9d085c 127
+  s_347da9a67d07e4::t_959267f4859431 1-22,25-64,71-82,84-95,98,100-109,113-126,128-129,131-195,258-259,261-278,283-287,289-294,297-303,311-315,324-328,330-335,342-356,358-370,373-520,554-643,702-736,738-749,751-754
+deployments/helm/dranet/README.md
+  s_347da9a67d07e4::t_812e65393da421 53
+deployments/helm/dranet/values.yaml
+  s_347da9a67d07e4::t_4c8d3e1464147b 42
+tests/manifests/resourceclaim_vfio.yaml
+  s_347da9a67d07e4::t_65c588e33887d3 1-46
+tests/e2e.bats
+  s_347da9a67d07e4::t_f49b532c22a2ba 140-154
+  s_347da9a67d07e4::t_05fffd40a55b41 907-950
+install.yaml
+  s_347da9a67d07e4::t_07cd0deaa7bce3 153-157
+  s_347da9a67d07e4::t_6c70540e1ed850 184-190
+deployments/helm/dranet/templates/daemonset.yaml
+  s_347da9a67d07e4::t_77be1e663f4a04 164-170
+  s_347da9a67d07e4::t_a84fe9765f9273 135-139
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "38baf559bb9b5cd78545dbd29d10a1acada2286d",
+  "prompts": {},
+  "sessions": {
+    "s_347da9a67d07e4": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "996c0eea-ccf3-4126-af9a-82daa13d8ac0",
+        "model": "unknown"
+      },
+      "human_author": "rebel-jinmoo <jinmoo_seok@rebellions.ai>"
+    }
+  }
+}
