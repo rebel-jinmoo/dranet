@@ -1,0 +1,64 @@
+site/content/docs/concepts/interface-status.md
+  s_347da9a67d07e4::t_ab540df267981c 19
+site/content/docs/concepts/vfio.md
+  s_347da9a67d07e4::t_451c8dfe9cca74 1-22,23-24,26-42,44,46-55,57-58,60-62,66-72,74-77,79-117,123-128,131-134
+  s_347da9a67d07e4::t_f842b46ff6e1c4 129-130
+  h_0d9636bcc3de06 25,43,45,56,59,63-65,73,78
+  s_347da9a67d07e4::t_9ba10beb52de32 118-122
+examples/vfio/vfio.yaml
+  s_347da9a67d07e4::t_0f0829e443bb3f 1-57
+examples/vfio/README.md
+  s_347da9a67d07e4::t_a5c9e646c45d9f 1-61
+site/content/docs/user/interface-configuration.md
+  s_347da9a67d07e4::t_f73d26edd0e336 29-33,37-38
+  s_347da9a67d07e4::t_c18d6b4a19eca5 257-286
+  s_347da9a67d07e4::t_8a3606a8629e38 39
+site/content/docs/quick-start.md
+  s_347da9a67d07e4::t_d6e761856f4f3b 137-140
+pkg/driver/vfio_test.go
+  s_347da9a67d07e4::t_52a41bd68ab4c3 96-97,99
+  s_347da9a67d07e4::t_48919aa3193f1c 632-689
+  s_347da9a67d07e4::t_984edb441f2bd5 196-255
+  s_347da9a67d07e4::t_281406bcfc3cfe 112,256,509-540
+  s_347da9a67d07e4::t_2bc7974a860dc8 23-24,65-70,83,110-111,130,257,260,279-282,288,304-310,316-323,329,336-341,357,371-372,541,711,724
+pkg/inventory/pci_test.go
+  s_347da9a67d07e4::t_f98e080046ecad 137-139,141-147,149-152
+  s_347da9a67d07e4::t_4815dc85915309 71-72,93,99-115,117,122,132,140,148,156,163-164,171-172,209,244
+pkg/inventory/pci.go
+  s_347da9a67d07e4::t_1da783c31027d0 80-94
+  s_347da9a67d07e4::t_3e6c1bdded5d04 111-113
+  s_347da9a67d07e4::t_e122476ff61b72 63,95-99,118,124,127
+pkg/driver/vfio.go
+  s_347da9a67d07e4::t_33e85410e62f0b 299-305
+  s_347da9a67d07e4::t_7a06ce4217b029 277,280,281-282,284-292,293,294-295,297-298,306
+  s_347da9a67d07e4::t_bfc5bec0c1f10b 283
+  s_347da9a67d07e4::t_ce650f197b1a20 20
+  s_347da9a67d07e4::t_2ef93f1fa1fe0e 307
+  s_347da9a67d07e4::t_f443a5ae31c7fe 24,49-57,77-80,82-83,90-91,93-101,104-106,108-115,119-126,130-133,141,167-169,171,175,179,183,185-188,190,192-203,205,217-219,227-228,247-251,257-258,264-269,271-272,355-356,365
+pkg/driver/dra_hooks.go
+  s_347da9a67d07e4::t_8e9e2050ad87fc 572-574,576-577
+  s_347da9a67d07e4::t_32bb247ff26c62 221
+cmd/dranet/app.go
+  s_347da9a67d07e4::t_1f097421242a9f 112-114
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "4166831083542b6518622cc56b2197b8120eaa08",
+  "prompts": {},
+  "humans": {
+    "h_0d9636bcc3de06": {
+      "author": "rebel-jinmoo <jinmoo_seok@rebellions.ai>"
+    }
+  },
+  "sessions": {
+    "s_347da9a67d07e4": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "996c0eea-ccf3-4126-af9a-82daa13d8ac0",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "rebel-jinmoo <jinmoo_seok@rebellions.ai>"
+    }
+  }
+}
