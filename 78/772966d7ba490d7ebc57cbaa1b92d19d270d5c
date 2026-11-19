@@ -1,0 +1,24 @@
+pkg/inventory/db.go
+  s_347da9a67d07e4::t_593fc0099db717 961
+  s_347da9a67d07e4::t_60c66e19290e71 962
+pkg/inventory/pci_test.go
+  s_347da9a67d07e4::t_7ccf706402672d 220-235
+site/content/docs/user/feature-gates.md
+  s_347da9a67d07e4::t_20a2ff9a7bd1b0 29,75-86
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "78772966d7ba490d7ebc57cbaa1b92d19d270d5c",
+  "prompts": {},
+  "sessions": {
+    "s_347da9a67d07e4": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "996c0eea-ccf3-4126-af9a-82daa13d8ac0",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "rebel-jinmoo <jinmoo_seok@rebellions.ai>"
+    }
+  }
+}
