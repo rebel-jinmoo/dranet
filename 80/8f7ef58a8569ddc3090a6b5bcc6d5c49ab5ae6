@@ -1,0 +1,19 @@
+pkg/apis/validation_test.go
+  s_347da9a67d07e4::t_3ac871ff619e88 1487
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "808f7ef58a8569ddc3090a6b5bcc6d5c49ab5ae6",
+  "prompts": {},
+  "sessions": {
+    "s_347da9a67d07e4": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "996c0eea-ccf3-4126-af9a-82daa13d8ac0",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "rebel-jinmoo <jinmoo_seok@rebellions.ai>"
+    }
+  }
+}
